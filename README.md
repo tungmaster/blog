@@ -1,1 +1,2 @@
-# blog
+# blog 
+Blog of Tungmaster
